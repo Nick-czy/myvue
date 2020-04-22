@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 前端框架模板
@@ -21,3 +22,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# myvue
+前端框架模板
+>>>>>>> 15c6469c791b6a151170c451cabdb08edbc71954
